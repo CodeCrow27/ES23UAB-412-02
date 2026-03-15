@@ -4,7 +4,7 @@
 RNF-07
 
 ### Type/Category:
-Funcional
+No Funcional
 
 ### Version:
 1.0
