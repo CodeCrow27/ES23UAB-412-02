@@ -19,7 +19,7 @@
 
 Aquest repositori conté les pràctiques que es fan a terme a **Enginyeria del Software**.  
 Enginyeria Informàtica, Escola d'Enginyeria.  
-Curs **2021-22**.  
+Curs **2025-26**.  
 
 **Universitat Autònoma de Barcelona**
 
