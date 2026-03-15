@@ -1,0 +1,17 @@
+# Requirement RNF-13
+
+### ID:
+RNF-13
+
+### Type/Category:
+No Funcional
+
+### Version:
+1.0
+
+### Title:
+Estilo 
+### Description:
+la fuente debe de ser calibri ,el color corporativo naranja y el logo debe de aparecer en todas las paginas
+### Comments:
+Requisito no funcional de decisión de diseño
