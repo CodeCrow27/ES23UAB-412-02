@@ -1,0 +1,21 @@
+# Requirement RNF-04
+
+### ID:
+RNF-04
+
+### Type/Category:
+No Funcional
+
+### Version:
+1.0
+
+### Title:
+Maximo de pedidos activos
+### Description:
+EL maximo de pedidos activos de un mismo cliente es 3
+### Relations:
+RF-17
+### Comments:
+Cap comentari
+
+---
