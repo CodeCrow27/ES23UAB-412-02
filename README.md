@@ -10,8 +10,8 @@
 ## Integrants
 
 1. **Ferran Soler**, NIU: 1745823, Github user: [CodeCrow27](https://github.com/CodeCrow27)  
-2. **Rayan Ahmed**, NIU: 1598865, Github user: [MarcGM04](https://github.com/MarcGM04)  
-3. **Jan Muñoz**, NIU: 1606868, Github user: [1606868-uab](https://github.com/1606868-uab)  
+2. **Rayan Ahmed**, NIU: , Github user: [](https://github.com/)  
+3. **Jan Muñoz**, NIU: , Github user: [janmuesco](https://github.com/janmuesco)  
 
 ---
 
