@@ -1,0 +1,20 @@
+# Requirement RNF-01
+
+### ID:
+RNF-01
+
+### Type/Category:
+Funcional
+
+### Version:
+1.0
+
+### Title:
+Condiciones del nombre de usuario.
+### Description:
+Se definen las restricciones del nombre de usuario:minimo 5 caracteres y debe de ser único,es decir,no puede haber más de un usuario con el mismo nombre.
+### Relations:
+* RF-06-RF-04
+
+### Comments:
+Este requisito no funcional es de tipo restricción de diseño(Seguridad).
