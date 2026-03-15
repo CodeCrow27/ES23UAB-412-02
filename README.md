@@ -31,6 +31,7 @@ Curs **2021-22**.
 2. [requirements](./requirements)
 3. [minutes](./minutes)
 4. [others](./others)
+5. [diagrams](./diagrams)
 
 
 ---
