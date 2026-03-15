@@ -1,0 +1,21 @@
+# Requirement RF-01-00
+
+### ID:
+RF-02
+
+### Type/Category:
+Funcional
+
+### Version:
+1.0
+
+### Title:
+Creación de cuenta
+
+### Description:
+Un usuario no registrado puede crear una cuenta mediante correo Gmail o Outlook.
+### Relations:
+* RF-01
+
+### Comments:
+Cap comentari
