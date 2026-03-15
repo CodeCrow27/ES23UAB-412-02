@@ -4,7 +4,7 @@
 RNF-01
 
 ### Type/Category:
-Funcional
+No Funcional
 
 ### Version:
 1.0
