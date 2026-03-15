@@ -1,0 +1,17 @@
+# Requirement RNF-12
+
+### ID:
+RNF-12
+
+### Type/Category:
+No Funcional
+
+### Version:
+1.0
+
+### Title:
+Compatibilidad 
+### Description:
+La plataforma debe de funcionar tanto para Android como IOS### 
+Comments:
+Requisito no funcional de restricción de diseño(Limitación hardware)
