@@ -1,9 +1,9 @@
-# Enginyeria del Software - 2022
+# Enginyeria del Software - 2026
 
 ## Grup
 
-- **Grup de matrícula:** 411  
-- **Subgrup:** 07  
+- **Grup de matrícula:** 412  
+- **Subgrup:** 02  
 
 ---
 
