@@ -1,0 +1,17 @@
+# Requirement RNF-10
+
+### ID:
+RNF-10
+
+### Type/Category:
+No Funcional
+
+### Version:
+1.0
+
+### Title:
+Idiomas 
+### Description:
+La aplicación debe de estar en catalán ,castellano e inglés
+### Comments:
+Requisito no funcional de Decisión de diseño
