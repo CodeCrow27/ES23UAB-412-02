@@ -1,0 +1,22 @@
+# Requirement RF-16
+
+### ID:
+RF-16
+
+### Type/Category:
+Funcional
+
+### Version:
+1.0
+
+### Title:
+Disponibilidad del cocinero
+### Description:
+Se debe de poder hacer un pedido en una hora en la que el cocinero este disponible,  aunque aparezca como no disponible en ese momento.
+### Relations:
+RF-12
+
+### Comments:
+Cap comentari
+
+---
