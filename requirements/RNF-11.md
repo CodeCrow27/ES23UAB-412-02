@@ -11,6 +11,6 @@ No Funcional
 ### Title:
 Versiones de aplicación 
 ### Description:
-Objetivo de diseño
+La aplicación debe tener dos versiones:una móvil y una web(Restricción de diseño-hw)​
 ### Comments:
-Requisito no funcional de objetivo de diseño
+Requisito no funcional restricción de diseño(hw)
